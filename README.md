@@ -1,4 +1,4 @@
-# groupie-tracker-search-bar
+# groupie-tracker
 
 ### Description
 
